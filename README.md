@@ -58,8 +58,9 @@
 
 ```
 Dungeon_Master/
+├── cs/               # Control de versiones
 ├── images/           # Imágenes utilizadas
-├── src/              # Código fuente principal
+├── src/              # Códigos utilizados
 ├── video/            # Video Demo de la App 
 ├── app.py            # Archivo principal de la aplicación Streamlit
 ├── requirements.txt  # Lista de dependencias
@@ -69,7 +70,7 @@ Dungeon_Master/
 
 ## 📹 Demostración
 
-[Ver video de demostración](https://vimeo.com/1083470886)
+[Haz Click a este enlace para ver una pequeña demo del proyecto en Vimeo](https://vimeo.com/1083470886)
 
 
 ## 🤝 Contribuciones
