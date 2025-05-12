@@ -1,7 +1,7 @@
 
 ![Logo del proyecto](./images/dmj.jpg)
 
-# 🧙‍♂️ Dungeon Master AI
+# 🧙‍♂️ Dungeon Master 
 
 ¿Alguna vez has soñado con tener tu propio Dungeon Master para tus partidas de *Dragones y Mazmorras*? ¡Ahora es posible! Esta aplicación, desarrollada con la API de OpenAI y Streamlit, te permite disfrutar de aventuras personalizadas, gestionar encuentros y vivir una experiencia única en cada sesión.
 
