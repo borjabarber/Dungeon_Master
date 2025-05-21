@@ -30,7 +30,7 @@ if mensaje_usuario:
     st.session_state.mensajes.append({"role": "user", "content": mensaje_usuario})
     try:
         respuesta = openai.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=st.session_state.mensajes,
             temperature=0.8,
             max_tokens=700
